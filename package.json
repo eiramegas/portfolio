@@ -1,0 +1,20 @@
+{
+  "name": "hyperspace",
+  "version": "1.0.0",
+  "description": "Hyperspace by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm-start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sage LeGault",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
