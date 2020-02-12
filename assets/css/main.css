@@ -3273,7 +3273,7 @@ input, select, textarea {
 
 			.spotlights > section {
 				display: block;
-				line
+				line-break: auto;
 			}
 
 				.spotlights > section > .image {
